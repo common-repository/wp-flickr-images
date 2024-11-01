@@ -1,0 +1,49 @@
+p.css_wp_flickr_row {
+}
+p.css_wp_flickr_row label {
+    display: block;
+}
+fieldset.css_wp_flickr_row input {
+    border: 1px solid #EEEEEE;
+    height: 12px;
+    width: 40px;
+}
+p.css_wp_flickr_row input {
+    width: 100%;
+}
+.small_input {
+    padding: 0 16px 0 14px;
+}
+fieldset.css_wp_flickr_row lable {
+}
+fieldset.css_wp_flickr_row {
+    background: none repeat scroll 0 0 #F3F3F3;
+    border: 1px solid #FFFFFF;
+    padding: 10px;
+}
+p.css_wp_flickr_row textarea {
+    height: 100px;
+    width: 100%;
+}
+
+.css_wp_flickr_api {
+    background: none repeat scroll 0 0 #F3F3F3;
+    border: 1px solid #FFFFFF;
+    padding: 10px;
+}
+
+.css_wp_flickr_api label { 
+    display: block;
+    overflow: hidden;
+    padding: 10px 0 0;
+}
+.css_wp_flickr_api input { 
+    width: 100%;
+}
+
+.wp_flickr_desc {
+    color: red;
+    display: block;
+    font-size: 10px;
+    padding: 10px 0 0;
+}
